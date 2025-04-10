@@ -16,7 +16,7 @@ const productList = [
     },
     {
         name:"Laptop",
-        quantity:1,
+        quantity:2,
         discount:2999
     }
 ]
